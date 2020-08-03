@@ -41,9 +41,23 @@
 	- [**Source code is available for this site at**] - http://mesebilisim.com/
 	- [**Python framework**] - Django
 	- [**Operations system**] - Linux
-	- [**Webserver**] - Nginx WSGI
-	- [**Method**] - Other
+	- [**Webserver**] - Nginx
+	- [**Method**] - uWSGI
 	- [**Database**] - SQLite
+	- [**Python version**] - 2.7.0
+
+- [Smd code](http://smdcode.com)
+	- [**Created by**] - electrocoder
+    - [**URL**] - http://smdcode.com/
+	- [**Description**] - Semiconductor smd device code book. Service manual and datasheet
+	- [**Language**] - English
+	- [**Tags**] - datasheet, manual, electronic,
+	- [**Source code is available for this site at**] - http://smdcode.com/
+	- [**Python framework**] - Django
+	- [**Operations system**] - Linux
+	- [**Webserver**] - Nginx
+	- [**Method**] - uWSGI
+	- [**Database**] - MySQL
 	- [**Python version**] - 2.7.0
 
 
