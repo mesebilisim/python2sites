@@ -8,10 +8,10 @@ from django.utils.html import mark_safe
 import time
 import os
 
-from python2sites.settings import WEBSITE_NAME
+from src.python2sites.settings import WEBSITE_NAME
 
-from sites.models import Site
-from tags.models import Tag
+from src.sites import Site
+from src.tags.models import Tag
 
 register = template.Library()
 

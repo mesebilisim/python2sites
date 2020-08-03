@@ -10,8 +10,8 @@ from django.conf.urls.static import static
 from django.http import HttpResponse
 from django.contrib.sitemaps.views import sitemap
 
-from sites import views as sites
-from profiles import views as profiles
+from src.sites import views as sites
+from ..profiles import views as profiles
 
 from .feeds import * # rss
 from .sitemaps import * # sitemaps

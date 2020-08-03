@@ -63,7 +63,7 @@ instance/
 .scrapy
 
 # Sphinx documentation
-docs/_build/
+src/docs/_build/
 
 # PyBuilder
 target/
@@ -95,7 +95,7 @@ ENV/
 # Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
 
 # User-specific stuff:
-.idea/workspace.xml
+../.idea/workspace.xml
 .idea/tasks.xml
 .idea/dictionaries
 .idea/vcs.xml
@@ -137,7 +137,7 @@ crashlytics-build.properties
 fabric.properties
 
 ### Local settings
-python2sites/settings_secret.py
+src/python2sites/settings_secret.py
 *.sqlite3
 *.sock
 .DS_Store
@@ -148,6 +148,6 @@ __pycache__
 py3*
 .idea/
 py3python2sites
-profiles/migrations/
-sites/migrations/
+src/profiles/migrations/
+src/sites/migrations/
 tags/migrations/

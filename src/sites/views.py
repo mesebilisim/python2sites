@@ -11,12 +11,12 @@ from django.contrib.auth.decorators import login_required
 from django.http import HttpResponseRedirect
 from django.core.mail import send_mail
 
-from python2sites.settings import LOGIN_URL, emailmsg, DEFAULT_FROM_EMAIL, WEBSITE_NAME, TO
+from src.python2sites.settings import LOGIN_URL, emailmsg, DEFAULT_FROM_EMAIL, WEBSITE_NAME, TO
 
-from sites.models import *
+from src.sites import *
 from .forms import SiteForm
 
-from tags.models import Tag
+from src.tags.models import Tag
 
 def index(request):
     """

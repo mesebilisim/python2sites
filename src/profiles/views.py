@@ -15,7 +15,7 @@ from django.http import HttpResponseRedirect
 
 import hashlib, random
 
-from python2sites.settings import LOGIN_URL, emailmsg, DEFAULT_FROM_EMAIL, WEBSITE_NAME, WEBSITE_URL, TO
+from src.python2sites.settings import LOGIN_URL, emailmsg, DEFAULT_FROM_EMAIL, WEBSITE_NAME, WEBSITE_URL, TO
 
 from .forms import LoginForm, SignupForm, ForgetPasswordForm
 from .models import Profile

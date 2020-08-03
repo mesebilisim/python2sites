@@ -2,9 +2,9 @@
 
 from django.contrib.syndication.views import Feed
 
-from sites.models import Site
+from src.sites import Site
 
-from python2sites.settings import WEBSITE_NAME, WEBSITE_DESCRIPTION
+from src.python2sites.settings import WEBSITE_NAME, WEBSITE_DESCRIPTION
 
 class Feed(Feed):
     """

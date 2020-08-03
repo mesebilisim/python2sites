@@ -2,7 +2,7 @@
 
 from django.contrib.sitemaps import Sitemap
 from django.db.models import Q
-from sites.models import Site
+from src.sites import Site
 
 class SiteSitemap(Sitemap):
     changefreq = "always"
