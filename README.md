@@ -196,3 +196,17 @@ cihazları iHOOK ile birbirine bağlayabilirsiniz.
 	- [**Database**] - MySQL
 	- [**Python version**] - 3.7
 
+- [3D Baskı Merkezi](https://3dbulut.com/)
+	- [**Created by**] [electrocoder](https://github.com/electrocoder)
+    - [**URL**] - https://3dbulut.com/
+	- [**Description**] - Modelini Yükle, Teklif Al. CNC veya 3D Yazıcı ile Modelini Hemen Üretelim
+	- [**Language**] - Turkish
+	- [**Tags**] - online yazıcı, 3d yazıcı, online 3d printer,
+	- [**Source code is available for this site at**] - None
+	- [**Python framework**] - Django 3.0.9
+	- [**Operations system**] - Linux
+	- [**Webserver**] - Nginx
+	- [**Method**] - uWSGI
+	- [**Database**] - SQLite
+	- [**Python version**] - 3.7
+
