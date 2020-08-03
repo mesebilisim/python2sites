@@ -154,4 +154,45 @@ cihazları iHOOK ile birbirine bağlayabilirsiniz.
 	- [**Database**] - SQLite
 	- [**Python version**] - 2.5.0
 
+- [Testions](http://testions.com/)
+	- [**Created by**] [electrocoder](https://github.com/electrocoder)
+    - [**URL**] - http://testions.com/
+	- [**Description**] - Website, mobile application, application and designs test made by real people
+	- [**Language**] - English
+	- [**Tags**] - a/b test, 5 seconds, ux, ui,
+	- [**Source code is available for this site at**] - None
+	- [**Python framework**] - Django
+	- [**Operations system**] - Linux
+	- [**Webserver**] - Nginx
+	- [**Method**] - Gunicorn
+	- [**Database**] - MySQL
+	- [**Python version**] - 2.5.0
+
+- [Iothook](http://iothook.com)
+	- [**Created by**] [electrocoder](https://github.com/electrocoder)
+    - [**URL**] - http://iothook.com
+	- [**Description**] - Internete bağlı olarak çalışan Arduino, Raspberry Pi, Android, iOS, Windows Phone, Web Site, Banana Pi, Orange Pi, Beaglebone, ARM, Pic, Windows, Mac OS X, Linux ve diğer şeyleri IotHook ile birbirine bağlar
+	- [**Language**] - Turkish
+	- [**Tags**] - arduino, raspberry pi, nodemcu, iot, dashboard,
+	- [**Source code is available for this site at**] - https://github.com/electrocoder/iotHook
+	- [**Python framework**] - Django
+	- [**Operations system**] - Linux
+	- [**Webserver**] - Nginx
+	- [**Method**] - Gunicorn
+	- [**Database**] - MySQL
+	- [**Python version**] - 2.5.0
+
+- [3D Online Baskı](https://baski3d.com/)
+	- [**Created by**] [electrocoder](https://github.com/electrocoder)
+    - [**URL**] - https://baski3d.com/
+	- [**Description**] - Baskı3D hayal ettiğiniz tasarımları hızlı ve ucuz bir şekilde basmayı hedefler. Tasarımınızı yüklerken flament seçimi, renk seçimi ve adet seçimi yapabilirsiniz. Baskı3D 3 boyutlu yazıcı parkurundan seçiminizi yaparak baskıya hemen başlayabilirsiniz. 3D parkurda bulunan 3 boyutlu yazıcınızın durumunu kameradan izleyebilirsiniz. Baskı3D Manisa Teknokent de faaliyet gösteren, 3 Boyutlu yazıcı teknolojileri üreten AR-GE firmasıdır.
+	- [**Language**] - Turkish
+	- [**Tags**] - online baskı, 3d yazıcı, online 3d printer,
+	- [**Source code is available for this site at**] - None
+	- [**Python framework**] - Django 3.0.9
+	- [**Operations system**] - Linux
+	- [**Webserver**] - Nginx
+	- [**Method**] - Gunicorn
+	- [**Database**] - MySQL
+	- [**Python version**] - 3.7
 
